@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+SETTING UP THE DEVELOPMENT SERVER
+npm run dev: this makes the project to go inside package.json and check which script to run. In Package.json, "run" corresponds to "next dev" which is a script present in the next package. 
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
